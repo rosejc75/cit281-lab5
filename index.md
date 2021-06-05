@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Rose's Lab 5
 
-You can use the [editor on GitHub](https://github.com/rosejc75/cit281-lab5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This lab involved working in Postman
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Postman
+We started by creating a CIT 281 collection and folder within postman. From there we created a Node.js and fastify server to support GET and to then respond with JSON. We used the command "npm init -y" and npm install --save fastify" to initialize our folder with a package.json file and add fastify to our project. We then used Postman to test server GET routes
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosejc75/cit281-lab5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
